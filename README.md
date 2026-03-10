@@ -1,1 +1,1 @@
-This is a test nodepack for testing the security features of ComfyUI. Please do not install this nodepack.
+This is a test nodepack for safely testing the functionality of **ComfyUI-Manager**. Please do not install this nodepack.
