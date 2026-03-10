@@ -29,7 +29,7 @@ Documentation = "https://github.com/ltdrdata/nodepack-test2-do-not-install/wiki"
 "Bug Tracker" = "https://github.com/ltdrdata/nodepack-test2-do-not-install/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "drltdata"
 DisplayName = "nodepack-test2-do-not-install"
 Icon = ""
 includes = [] 
